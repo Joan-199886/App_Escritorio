@@ -1,0 +1,2 @@
+NombreCamaraSalida= USB2.0 VGA UVC WebCam
+NombreCamaraEntrada= CamaraSalida

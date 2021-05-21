@@ -1,0 +1,88 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+ #register
+{
+ 	
+    -fx-padding: 10px;
+    -fx-font-weight: 600;
+    -fx-font-size: 20px;
+    -fx-text-fill:  black;
+    -fx-background-color: transparent;
+    -fx-border-radius: 10px;
+    -fx-border-width: 2px;
+    -fx-border-color: #0099CC;
+    -fx-border-style: solid ;	
+}
+
+#register:hover
+{
+	-fx-background-color: #008CBA;
+	-fx-text-fill: white;
+	-fx-background-radius: 10px;
+}
+
+ #puerta
+{
+ 	
+    -fx-padding: 10px;
+    -fx-font-weight: 600;
+    -fx-font-size: 20px;
+    -fx-text-fill:  black;
+    -fx-background-color: transparent;
+    -fx-border-radius: 10px;
+    -fx-border-width: 2px;
+    -fx-border-color: #bf1b1b;
+    -fx-border-style: solid ;	
+}
+
+#puerta:hover
+{
+	-fx-background-color: #bf1b1b;
+	-fx-text-fill: white;
+	-fx-background-radius: 10px;
+}
+
+#captura
+{
+	-fx-padding: 10px;
+    -fx-font-size: 20px;
+    -fx-text-fill:  black;
+    -fx-background-color: transparent;
+    -fx-border-radius: 10px;
+    -fx-border-width: 2px;
+    -fx-border-color: #ba2727;
+    -fx-border-style: solid ;	
+    
+}
+#captura:hover
+{
+	-fx-border-color: #008CBA;
+	-fx-text-fill: black;
+	-fx-background-radius: 10px;
+}
+
+#registrar
+{
+	-fx-padding: 10px;
+    -fx-font-weight: 600;
+    -fx-font-size: 20px;
+    -fx-text-fill:  black;
+    -fx-background-color: transparent;
+    -fx-border-radius: 10px;
+    -fx-border-width: 2px;
+    -fx-border-color: #008CBA;
+    -fx-border-style: solid ;	
+}
+
+#registrar:hover
+{
+	-fx-background-color: #008CBA;
+	-fx-text-fill: white;
+	-fx-background-radius: 10px;
+}
+
+.combo-box-base {
+    -fx-background-color: -fx-shadow-highlight-color, -fx-outer-border, -fx-inner-border, white;
+    -fx-background-insets: 0 0 -1 0, 0, 1, 2;
+    -fx-background-radius: 3px, 3px, 2px, 1px;
+}
+
